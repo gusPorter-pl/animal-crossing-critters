@@ -7,7 +7,7 @@ function getData(): Critter[] {
   return data.critters;
 }
 
-function writeData(critters: Object[]): void {
+function writeData(critters: Critter[]): void {
   const stringData = JSON.stringify({critters: critters});
   fs.writeFile('./critters.json', stringData, (err) => {
     if (err) {
