@@ -1,7 +1,7 @@
-import fs from 'fs';
-import Critter from './types';
-import * as months from './months';
-import data from './critters.json';
+import fs from "fs";
+import Critter from "./types";
+import * as months from "./months";
+import data from "./critters.json";
 
 function getData(): Critter[] {
   return data.critters;
@@ -9,11 +9,11 @@ function getData(): Critter[] {
 
 function writeData(critters: Critter[]): void {
   const stringData = JSON.stringify({critters: critters});
-  fs.writeFile('./critters.json', stringData, (err) => {
+  fs.writeFile("./critters.json", stringData, (err) => {
     if (err) {
       throw err;
     }
-    console.log('JSON data has been saved.');
+    console.log("JSON data has been saved.");
   });
 }
 
@@ -27,18 +27,18 @@ function getChoice(): number {
   let result: number = -1;
 
   while (result === -1) {
-    const prompt = require('prompt-sync')();
+    const prompt = require("prompt-sync")();
 
-    console.log('What would you like to do?');
-    console.log('1. Update what you have caught.');
-    console.log('2. See what critters are available to catch this month.');
-    console.log('0. Exit.');
-    const choice = prompt('Enter (0-2) ');
+    console.log("What would you like to do?");
+    console.log("1. Update what you have caught.");
+    console.log("2. See what critters are available to catch this month.");
+    console.log("0. Exit.");
+    const choice = prompt("Enter (0-2) ");
 
     result = Number.parseInt(choice);
     if (isNaN(result) || result < -1 || result > 2) {
       result = -1;
-      console.log('Please enter a correct value.');
+      console.log("Please enter a correct value.");
     }
   }
 
