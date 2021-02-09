@@ -1,20 +1,21 @@
+export const monthOrder = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec"
+];
+
 export const expandMonths = (months: string): string[] => {
   // converts hyphenated months out to every month
   console.log(months);
-  const monthOrder = [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun",
-    "Jul",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec"
-  ];
   const splitMonths = months.split(",");
   let returnMonths: string[] = [];
 
