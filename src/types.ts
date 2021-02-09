@@ -5,7 +5,7 @@ interface Critter {
   months: string;
   time: string;
   location?: string;
-  status: string;
+  status: string; //'Caught' | 'Not Caught'
 }
 
 export default Critter;
