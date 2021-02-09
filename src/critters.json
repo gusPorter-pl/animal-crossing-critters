@@ -7,7 +7,7 @@
       "months": "Mar-Dec",
       "time": "4-19",
       "location": "Flowers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -16,7 +16,7 @@
       "months": "Mar-Apr, Sep-Dec",
       "time": "4-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -25,7 +25,7 @@
       "months": "Sep-Mar",
       "time": "4-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -43,7 +43,7 @@
       "months": "Oct-Feb",
       "time": "4-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -52,7 +52,7 @@
       "months": "All months",
       "time": "8-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -61,7 +61,7 @@
       "months": "May-Aug",
       "time": "4-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -70,7 +70,7 @@
       "months": "Mar-May",
       "time": "4-17",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -79,7 +79,7 @@
       "months": "Jun-Sept, Dec-Mar",
       "time": "17-8",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -88,7 +88,7 @@
       "months": "Oct-Mar",
       "time": "8-17",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -97,7 +97,7 @@
       "months": "Jun-Aug, Oct-Mar",
       "time": "8-17",
       "location": "Flowers (Blue, Black, Purple)",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -106,7 +106,7 @@
       "months": "Nov-Apr",
       "time": "8-16",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -115,7 +115,7 @@
       "months": "All months",
       "time": "19-4",
       "location": "Around light",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -124,7 +124,7 @@
       "months": "Oct-Mar",
       "time": "19-4",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -133,7 +133,7 @@
       "months": "Oct-Mar",
       "time": "8-16",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -142,7 +142,7 @@
       "months": "Oct-May",
       "time": "8-19",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -151,7 +151,7 @@
       "months": "Feb-May",
       "time": "8-19",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -160,7 +160,7 @@
       "months": "Feb-May",
       "time": "8-19",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -169,7 +169,7 @@
       "months": "Jan-Mar",
       "time": "8-17",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -178,7 +178,7 @@
       "months": "Mar-May",
       "time": "17-8",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -187,7 +187,7 @@
       "months": "Mar-Apr",
       "time": "17-8",
       "location": "In grass",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -196,7 +196,7 @@
       "months": "Mar-Apr, Sept-Jan",
       "time": "8-17",
       "location": "Flowers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -205,7 +205,7 @@
       "months": "Sep-May",
       "time": "8-17",
       "location": "Flowers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -223,7 +223,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Shaking trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -232,7 +232,7 @@
       "months": "Jan-Feb",
       "time": "8-17",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -241,7 +241,7 @@
       "months": "Jan-Feb",
       "time": "8-17",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -250,7 +250,7 @@
       "months": "Jan-Feb",
       "time": "8-17",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -259,7 +259,7 @@
       "months": "Feb-Mar",
       "time": "8-16",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -286,7 +286,7 @@
       "months": "Mar-Apr",
       "time": "8-19",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -295,7 +295,7 @@
       "months": "Oct-Apr",
       "time": "8-17",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -304,7 +304,7 @@
       "months": "Nov-Apr",
       "time": "8-17",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -313,7 +313,7 @@
       "months": "May-Aug",
       "time": "All hours",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -340,7 +340,7 @@
       "months": "Nov-Jan",
       "time": "8-19",
       "location": "In rivers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -349,7 +349,7 @@
       "months": "Nov-Jan",
       "time": "8-19",
       "location": "In rivers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -358,7 +358,7 @@
       "months": "Oct-Mar",
       "time": "19-8",
       "location": "Ponds and rivers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -367,7 +367,7 @@
       "months": "Sep-Apr",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -376,7 +376,7 @@
       "months": "Sep-Apr",
       "time": "19-8",
       "location": "Flowers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -385,7 +385,7 @@
       "months": "Apr, Sep-Dec",
       "time": "8-17",
       "location": "Flowers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -394,7 +394,7 @@
       "months": "Sep-Mar",
       "time": "All hours",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -403,7 +403,7 @@
       "months": "Oct-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -412,7 +412,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Tree stumps",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -421,7 +421,7 @@
       "months": "Nov-Mar",
       "time": "All hours",
       "location": "Tree stumps",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -439,7 +439,7 @@
       "months": "Mar-May, Nov-Dec",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -457,7 +457,7 @@
       "months": "Jan-Mar",
       "time": "All hours",
       "location": "Ground",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -475,7 +475,7 @@
       "months": "Dec-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -484,7 +484,7 @@
       "months": "Dec-Apr",
       "time": "17-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -502,7 +502,7 @@
       "months": "Jan-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -520,7 +520,7 @@
       "months": "Dec-Mar",
       "time": "19-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -601,7 +601,7 @@
       "months": "Jan-Mar",
       "time": "All hours",
       "location": "On ground by trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -610,7 +610,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Shaking trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -628,7 +628,7 @@
       "months": "All months",
       "time": "19-8",
       "location": "On beach",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -637,7 +637,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "On beach rocks",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -655,7 +655,7 @@
       "months": "Dec-Jan",
       "time": "17-4",
       "location": "Flying",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -664,7 +664,7 @@
       "months": "Oct-May",
       "time": "All hours",
       "location": "On flea-infested villagers",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -673,7 +673,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "On rocks",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -682,7 +682,7 @@
       "months": "Mar-Dec",
       "time": "11-16",
       "location": "Hitting rocks",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -691,7 +691,7 @@
       "months": "Mar-Dec",
       "time": "17-23",
       "location": "Hitting rocks",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -727,7 +727,7 @@
       "months": "May-Sep",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -736,7 +736,7 @@
       "months": "All months",
       "time": "8-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -745,7 +745,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -754,7 +754,7 @@
       "months": "All months",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -763,7 +763,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -772,7 +772,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -781,7 +781,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -790,7 +790,7 @@
       "months": "All months",
       "time": "9-16",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -817,7 +817,7 @@
       "months": "Oct-Mar",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -826,7 +826,7 @@
       "months": "Feb-Mar",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -835,7 +835,7 @@
       "months": "Oct-Apr",
       "time": "21-4",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -853,7 +853,7 @@
       "months": "Nov-Feb",
       "time": "All hours",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -862,7 +862,7 @@
       "months": "All months",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -880,7 +880,7 @@
       "months": "Nov-Apr",
       "time": "16-9",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -898,7 +898,7 @@
       "months": "All months",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -907,7 +907,7 @@
       "months": "Apr-Sep",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -916,7 +916,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -925,7 +925,7 @@
       "months": "Dec-Apr",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -934,7 +934,7 @@
       "months": "Mar-Jun",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -952,7 +952,7 @@
       "months": "Jan-Mar",
       "time": "All hours",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -961,7 +961,7 @@
       "months": "Mar-May, Sep-Dec",
       "time": "16-9",
       "location": "River (Clifftop)",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -997,7 +997,7 @@
       "months": "Mar",
       "time": "All hours",
       "location": "River (mouth)",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1006,7 +1006,7 @@
       "months": "Mar",
       "time": "All hours",
       "location": "River (mouth)",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1015,7 +1015,7 @@
       "months": "Mar-May",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1024,7 +1024,7 @@
       "months": "Oct-Apr **",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1033,7 +1033,7 @@
       "months": "Nov-Mar",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1042,7 +1042,7 @@
       "months": "Nov-Apr",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1051,7 +1051,7 @@
       "months": "Nov-Mar",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1060,7 +1060,7 @@
       "months": "Oct-May",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1069,7 +1069,7 @@
       "months": "Nov-Apr",
       "time": "9-16",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1078,7 +1078,7 @@
       "months": "Dec-Mar",
       "time": "9-16, 21-4",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1087,7 +1087,7 @@
       "months": "Dec-Mar",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1096,7 +1096,7 @@
       "months": "Dec-Mar",
       "time": "4-21",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1114,7 +1114,7 @@
       "months": "Jan-Apr",
       "time": "16-9",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1123,7 +1123,7 @@
       "months": "Dec-Jan",
       "time": "21-4",
       "location": "River",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1132,7 +1132,7 @@
       "months": "Mar-Sep",
       "time": "All hours",
       "location": "River (Mouth)",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1150,7 +1150,7 @@
       "months": "Oct-May",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1159,7 +1159,7 @@
       "months": "Oct-Mar",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1168,7 +1168,7 @@
       "months": "Oct-Mar",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1177,7 +1177,7 @@
       "months": "Oct-Mar",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1186,7 +1186,7 @@
       "months": "Jan-Feb",
       "time": "4-21",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1195,7 +1195,7 @@
       "months": "Oct-May",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1213,7 +1213,7 @@
       "months": "Jan-Mar",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1222,7 +1222,7 @@
       "months": "All months",
       "time": "4-21",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1231,7 +1231,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1240,7 +1240,7 @@
       "months": "Sep-May",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1249,7 +1249,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1258,7 +1258,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1267,7 +1267,7 @@
       "months": "Aug-Oct",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1276,7 +1276,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1285,7 +1285,7 @@
       "months": "All months",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1294,7 +1294,7 @@
       "months": "Feb-Apr",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1303,7 +1303,7 @@
       "months": "Dec-Apr",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1348,7 +1348,7 @@
       "months": "Jan-Mar",
       "time": "4-21",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1357,7 +1357,7 @@
       "months": "Feb-May",
       "time": "4-21",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1366,7 +1366,7 @@
       "months": "Dec-Mar",
       "time": "16-9",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1375,7 +1375,7 @@
       "months": "Dec-Mar",
       "time": "16-9",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1384,7 +1384,7 @@
       "months": "Dec-Mar",
       "time": "16-9",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1393,7 +1393,7 @@
       "months": "Dec-Mar",
       "time": "16-9",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1402,7 +1402,7 @@
       "months": "Dec-Mar",
       "time": "All hours",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1411,7 +1411,7 @@
       "months": "May-Sep",
       "time": "16-9",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1454,7 +1454,7 @@
       "name": "Sea Grapes",
       "months": "Jun-Sept",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1478,7 +1478,7 @@
       "name": "Sea Star",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1486,7 +1486,7 @@
       "name": "Sea Urchin",
       "months": "May-Sept",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1502,7 +1502,7 @@
       "name": "Sea Anemone",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1510,7 +1510,7 @@
       "name": "Moon Jellyfish",
       "months": "Jul-Sept",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1518,7 +1518,7 @@
       "name": "Sea Slug",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1534,7 +1534,7 @@
       "name": "Mussel",
       "months": "Jun-Dec",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1550,7 +1550,7 @@
       "name": "Scallop",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1598,7 +1598,7 @@
       "name": "Octopus",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1662,7 +1662,7 @@
       "name": "Acorn Barnacle",
       "months": "All months",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
@@ -1742,7 +1742,7 @@
       "name": "Spotted Garden Eel",
       "months": "May-Oct",
       "time": "4-21",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
