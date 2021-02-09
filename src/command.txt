@@ -1,0 +1,4 @@
+powershell clear && python txt_to_json.py
+
+powershell clear && ts-node critters.ts
+powershell clear && npx prettier --config .prettierrc.js --write "critters.json"
