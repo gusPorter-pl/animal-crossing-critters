@@ -15,7 +15,6 @@ export const monthOrder = [
 
 export const expandMonths = (months: string): string[] => {
   // converts hyphenated months out to every month
-  console.log(months);
   const splitMonths = months.split(",");
   let returnMonths: string[] = [];
 
