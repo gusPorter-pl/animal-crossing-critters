@@ -1,0 +1,2 @@
+powershell clear && python txt_to_json.py
+powershell clear && ts-node critters.ts
