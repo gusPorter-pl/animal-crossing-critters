@@ -51,14 +51,79 @@ function updateCaughtCritters(critters: Critter[]): void {
    * This is real brute force, a good way to list off all of your
    *   captures from the start
    */
-  for (let i = 0; i < critters.length; i++) {
-    let critter = critters[i];
+
+  let result: number = -1;
+
+  while (result === -1) {
+    const prompt = require("prompt-sync")();
+    console.log("\nWhat would you like to do?");
+    console.log("1. Go through each critter.");
+    console.log("2. Enter critter to update.");
+    console.log("0. Exit.");
+    const choice = prompt("Enter (0-2) ");
+
+    result = Number.parseInt(choice);
+    if (isNaN(result) || result < -1 || result > 2) {
+      result = -1;
+      console.log("Please enter a correct value.");
+    }
+  }
+
+  if (result === 1) {
+    for (let i = 0; i < critters.length; i++) {
+      let critter = critters[i];
+
+      if (critter.status === "Not Caught") {
+        let result: string = ".";
+        while (result === ".") {
+          const prompt = require("prompt-sync")();
+          console.log(`\nHave you caught ${critter.name}?`);
+          result = prompt("Enter (Y/N) ");
+          if (
+            !(
+              result === "Y" ||
+              result === "y" ||
+              result === "N" ||
+              result === "n"
+            )
+          ) {
+            result = ".";
+          }
+        }
+        if (result === "Y" || result === "y") {
+          critter.status = "Caught";
+        }
+      }
+    }
+  } else if (result === 2) {
+    let choice: string = "";
+    let found: boolean = false;
+
+    let critter: Critter;
+    while (choice !== "0") {
+      const prompt = require("prompt-sync")();
+      console.log(
+        "Enter the critter you want to update to caught (0 to exit)."
+      );
+      const choice = prompt("  ");
+
+      for (let i = 0; i < critters.length; i++) {
+        critter = critters[i];
+        if (critter.name.toLowerCase() === choice.toLowerCase()) {
+          found = true;
+          break;
+        }
+      }
+      if (found) {
+        break;
+      }
+    }
 
     if (critter.status === "Not Caught") {
       let result: string = ".";
       while (result === ".") {
         const prompt = require("prompt-sync")();
-        console.log(`\nHave you caught ${critter.name}?`);
+        console.log("Update status to caught?");
         result = prompt("Enter (Y/N) ");
         if (
           !(
