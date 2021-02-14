@@ -185,9 +185,7 @@ function showCrittersByMonth(critters: Critter[]): void {
         console.log("********************");
       }
       console.log(critter);
-      if (lastMonthAvailable) {
-        console.log("********************");
-      }
+      console.log("\n");
     }
   }
 }
