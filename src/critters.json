@@ -430,7 +430,7 @@
       "months": "Jan-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -493,7 +493,7 @@
       "months": "Jan-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -556,7 +556,7 @@
       "months": "Jan-Feb",
       "time": "17-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -808,7 +808,7 @@
       "months": "Oct-Feb",
       "time": "All hours",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1429,7 +1429,7 @@
       "months": "All months",
       "time": "21-4",
       "location": "Sea",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1734,7 +1734,7 @@
       "name": "Sea Pineapple",
       "months": "Apr-Aug",
       "time": "All hours",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Sea Creature",
