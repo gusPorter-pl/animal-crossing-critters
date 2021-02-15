@@ -1,0 +1,280 @@
+Seaweed
+N: Oct to Jul
+S: Apr to Jan
+Hours: All Day
+Large
+Still
+600
+Sea Grapes
+N: Jun to Sep
+S: Dec to Mar
+Hours: All Day
+Small
+Still
+900
+Sea Cucumber
+N: Nov to Apr
+S: May to Oct
+Hours: All Day
+Medium
+X-Slow
+500
+Sea Pig
+N: Nov to Feb
+S: May to Aug
+Hours: 4PM to 9AM
+Small
+X-Fast
+10000
+Sea Star
+S: All Year
+S: All Year
+Hours: All Day
+Small
+X-Slow
+500
+Sea Urchin 
+N: May to Sep
+S: Nov to Mar
+Hours: All Day
+Small
+Slow
+1700
+Slate Pencil Urchin
+N: May to Sep
+S: Nov to Mar
+Hours: 4PM to 9AM
+Medium
+Medium
+2000
+Sea Anemone
+S: All Year
+S: All Year
+Hours: All Day
+Large
+Still
+500
+Moon Jellyfish 
+N: Jul to Sep
+S: Jan to Mar
+Hours: All Day
+Small
+X-Slow
+600
+Sea Slug
+S: All Year
+S: All Year
+Hours: All Day
+X-Small
+X-Slow
+600
+Pearl Oyster
+S: All Year
+S: All Year
+Hours: All Day
+Small
+Medium
+2800
+Mussel 
+N: Jun to Dec
+S: Dec to Jun
+Hours: All Day
+Small
+Slow
+1500
+Oyster 
+N: Sep to Feb
+S: Mar to Aug
+Hours: All Day
+Small
+Slow
+1100
+Scallop
+S: All Year
+S: All Year
+Hours: All Day
+Medium
+Slow
+1200
+Whelk
+S: All Year
+S: All Year
+Hours: All Day
+Small
+Slow
+1000
+Turban Shell
+N: Mar to May, Sep to Dec
+S: Mar to Jun, Sep to Nov
+Hours: All Day
+Small
+Slow
+1000
+Abalone
+N: Jun to Jan
+S: Dec to Jul
+Hours: 4PM to 9AM
+Medium
+Medium
+2000
+Gigas Giant Clam
+N: May to Sep
+S: Nov to Mar
+Hours: All Day
+X-Large
+X-Fast
+15000
+Chambered Nautilus 
+N: Mar to Jun, Sep to Nov
+S: Mar to May, Sep to Dec
+Hours: 4PM to 9AM
+Medium
+Medium
+1800
+Octopus
+S: All Year
+S: All Year
+Hours: All Day
+Medium
+Slow
+1200
+Umbrella Octopus
+S: Mar to May, Sep to Nov
+S: Mar to May, Sep to Nov
+Hours: All Day
+Small
+Fast
+6000
+Vampire Squid
+N: May to Aug
+S: Nov to Feb
+Hours: 4PM to 9AM
+Medium
+X-Fast
+10000
+Firefly Squid
+N: Mar to Jun
+S: Sep to Dec
+Hours: 9PM to 4AM
+X-Small
+Slow
+1400
+Gazami Crab
+N: Jun to Nov
+S: Dec to May
+Hours: All Day
+Medium
+Medium
+2200
+Dungeness Crab
+N: Nov to May
+S: May to Nov
+Hours: All Day
+Medium
+Medium
+1900
+Snow Crab
+N: Nov to Apr
+S: May to Oct
+Hours: All Day
+Large
+Fast
+6000
+Red King Crab
+N: Nov to Mar
+S: May to Sep
+Hours: All Day
+Large
+X-Fast
+8000
+Acorn Barnacle 
+S: All Year
+S: All Year
+Hours: All Day
+X-Small
+Still
+600
+Spider Crab
+N: Mar to Apr
+S: Sep to Oct
+Hours: All Day
+X-Large
+X-Fast
+12000
+Tiger Prawn
+N: Jun to Sep
+S: Dec to Mar
+Hours: 4PM to 9AM
+Small
+Medium
+3000
+Sweet Shrimp
+N: Sep to Feb
+S: Mar to Aug
+Hours: 4PM to 9AM
+Small
+Slow
+1400
+Mantis Shrimp
+S: All Year
+S: All Year
+Hours: 4PM to 9AM
+Small
+Medium
+2500 
+Spiny Lobster 	
+N: Oct to Dec
+S: Apr to Jun
+Hours: 9PM to 4AM	
+Large	
+Fast	
+5000 
+Lobster 	
+N: Apr to Jun, Dec to Jan
+S: Jun to Jul, Oct to Nov
+Hours: All Day	
+Large	
+Fast	
+4500 
+Giant Isopod 	
+N: Jul to Oct
+S: Jan to Apr
+Hours: 9AM to 4PM; 9PM to 4AM	
+Medium	
+X-Fast	
+12000 
+Horseshoe Crab 	
+N: Jul to Sep
+S: Jan to Mar
+Hours: 9PM to 4AM	
+Medium	
+Medium	
+2500 
+Sea Pineapple 	
+N: Apr to Aug
+S: Oct to Feb
+Hours: All Day	
+Small	
+Slow	
+1500 
+Spotted Garden Eel 	
+N: May to Oct
+S: Nov to Apr
+Hours: 4AM to 9PM	
+Small	
+Slow	
+1100 
+Flatworm 	
+N: Aug to Sep
+S: Feb to Mar
+Hours: 4PM to 9AM	
+X-Small	
+X-Slow	
+700 
+Venus' Flower Basket 	
+N: Oct to Feb
+S: Apr to Aug
+Hours: All Day	
+Medium	
+Fast	
+5000
