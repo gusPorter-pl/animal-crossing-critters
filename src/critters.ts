@@ -156,7 +156,6 @@ function showCritterCount(critters: Critter[]): void {
 
 function showCrittersByMonth(critters: Critter[]): void {
   let month: string = "___";
-
   while (month === "___") {
     const prompt = require("prompt-sync")();
     console.log(
@@ -171,6 +170,38 @@ function showCrittersByMonth(critters: Critter[]): void {
     }
   }
 
+  let result: number = -1;
+  while (result === -1) {
+    const prompt = require("prompt-sync")();
+    console.log("\nWhich critters would you like to see?");
+    console.log("1. Insects");
+    console.log("2. Fish");
+    console.log("3. Sea Creatures");
+    console.log("0. All.");
+    const choice = prompt("Enter (0-3) ");
+
+    result = Number.parseInt(choice);
+    if (isNaN(result) || result < -1 || result > 3) {
+      result = -1;
+      console.log("Please enter a correct value.");
+    }
+  }
+
+  let critterTypes: string[];
+  switch (result) {
+    case 1:
+      critterTypes = ["Insect"];
+      break;
+    case 2:
+      critterTypes = ["Fish"];
+      break;
+    case 3:
+      critterTypes = ["Sea Creature"];
+      break;
+    default:
+      critterTypes = ["Insect", "Fish", "Sea Creature"];
+  }
+
   const monthIndex = months.monthOrder.indexOf(month);
   const nextMonth = months.monthOrder[monthIndex == 11 ? 0 : monthIndex + 1];
 
@@ -180,12 +211,14 @@ function showCrittersByMonth(critters: Critter[]): void {
     const critter = critters[i];
     const availableMonths = months.expandMonths(critter.months);
     if (critter.status === "Not Caught" && availableMonths.includes(month)) {
-      const lastMonthAvailable = !availableMonths.includes(nextMonth);
-      if (lastMonthAvailable) {
-        console.log("********************");
+      if (critterTypes.includes(critter.type)) {
+        const lastMonthAvailable = !availableMonths.includes(nextMonth);
+        if (lastMonthAvailable) {
+          console.log("********************");
+        }
+        console.log(critter);
+        console.log("\n");
       }
-      console.log(critter);
-      console.log("\n");
     }
   }
 }
