@@ -799,7 +799,7 @@
       "months": "All months",
       "time": "9-16",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -889,7 +889,7 @@
       "months": "Dec-Feb",
       "time": "9-16",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
