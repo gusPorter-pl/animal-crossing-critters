@@ -144,14 +144,37 @@ function updateCaughtCritters(critters: Critter[]): void {
 }
 
 function showCritterCount(critters: Critter[]): void {
-  let count = 0;
+  const count = {
+    count: 0,
+    Insect: 0,
+    Fish: 0,
+    "Sea Creature": 0
+  };
+  const critterTotal = {
+    Insect: 0,
+    Fish: 0,
+    "Sea Creature": 0
+  };
   for (let i = 0; i < critters.length; i++) {
     const critter = critters[i];
+    critterTotal[critter.type]++;
     if (critter.status === "Caught") {
-      count++;
+      count.count++;
+      count[critter.type]++;
     }
   }
-  console.log(`\nYou have caught ${count} out of ${critters.length} critters!`);
+  console.log(
+    `\nYou have caught ${count.Insect} out of ${critterTotal.Insect} insects!`
+  );
+  console.log(
+    `You have caught ${count.Fish} out of ${critterTotal.Fish} fish!`
+  );
+  console.log(
+    `You have caught ${count["Sea Creature"]} out of ${critterTotal["Sea Creature"]} sea creatures!`
+  );
+  console.log(
+    `You have caught ${count.count} out of ${critters.length} critters!`
+  );
 }
 
 function showCrittersByMonth(critters: Critter[]): void {
