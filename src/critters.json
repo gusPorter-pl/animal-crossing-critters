@@ -268,7 +268,7 @@
       "months": "Jan-Feb",
       "time": "4-8, 16-19",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -277,7 +277,7 @@
       "months": "Jan-Feb",
       "time": "All hours",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -466,7 +466,7 @@
       "months": "Jan-Feb",
       "time": "23-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -529,7 +529,7 @@
       "months": "Jan-Feb",
       "time": "17-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -565,7 +565,7 @@
       "months": "Jan-Feb",
       "time": "17-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -574,7 +574,7 @@
       "months": "Jan-Feb",
       "time": "17-8",
       "location": "On trees",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Insect",
@@ -1551,7 +1551,7 @@
       "size": "X-Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 11,
       "name": "Pearl Oyster",
       "speed": "Medium",
@@ -1573,7 +1573,7 @@
       "size": "Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 13,
       "name": "Oyster",
       "speed": "Slow",
@@ -1617,7 +1617,7 @@
       "size": "Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 17,
       "name": "Abalone",
       "speed": "Medium",
@@ -1628,7 +1628,7 @@
       "size": "Medium"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 18,
       "name": "Gigas Giant Clam",
       "speed": "X-Fast",
@@ -1639,7 +1639,7 @@
       "size": "X-Large"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 19,
       "name": "Chambered Nautilus",
       "speed": "Medium",
@@ -1694,7 +1694,7 @@
       "size": "X-Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 24,
       "name": "Gazami Crab",
       "speed": "Medium",
@@ -1760,7 +1760,7 @@
       "size": "X-Large"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 30,
       "name": "Tiger Prawn",
       "speed": "Medium",
@@ -1771,7 +1771,7 @@
       "size": "Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 31,
       "name": "Sweet Shrimp",
       "speed": "Slow",
@@ -1782,7 +1782,7 @@
       "size": "Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 32,
       "name": "Mantis Shrimp",
       "speed": "Medium",
