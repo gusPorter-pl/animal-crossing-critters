@@ -1105,7 +1105,7 @@
       "months": "Jan-Mar",
       "time": "16-9",
       "location": "Pond",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1321,7 +1321,7 @@
       "months": "Jan-Mar, May-Oct",
       "time": "All hours",
       "location": "Pier",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1330,7 +1330,7 @@
       "months": "Nov-Mar",
       "time": "All hours",
       "location": "Pier",
-      "status": "Not Caught"
+      "status": "Caught"
     },
     {
       "type": "Fish",
@@ -1606,7 +1606,7 @@
       "size": "Small"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 16,
       "name": "Turban Shell",
       "speed": "Slow",
