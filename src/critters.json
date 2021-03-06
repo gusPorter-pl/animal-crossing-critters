@@ -31,7 +31,7 @@
       "type": "Insect",
       "index": 4,
       "name": "Peacock Butterfly",
-      "months": "Mar-Jun",
+      "months": "Sep-Dec",
       "time": "4-19",
       "location": "Flowers (Blue, Black, Purple)",
       "status": "Not Caught"
@@ -58,7 +58,7 @@
       "type": "Insect",
       "index": 7,
       "name": "Great Purple Emperor",
-      "months": "May-Aug",
+      "months": "Nov-Feb",
       "time": "4-19",
       "location": "Flying",
       "status": "Caught"
@@ -103,7 +103,7 @@
       "type": "Insect",
       "index": 12,
       "name": "Queen Alexandra's Birdwing",
-      "months": "Nov-Apr",
+      "months": "Nov-Mar",
       "time": "8-16",
       "location": "Flying",
       "status": "Caught"
@@ -193,7 +193,7 @@
       "type": "Insect",
       "index": 22,
       "name": "Mantis",
-      "months": "Mar-Apr, Sept-Jan",
+      "months": "Sep-May",
       "time": "8-17",
       "location": "Flowers",
       "status": "Caught"
@@ -337,7 +337,7 @@
       "type": "Insect",
       "index": 38,
       "name": "Pondskater",
-      "months": "Nov-Jan",
+      "months": "Nov-Mar",
       "time": "8-19",
       "location": "In rivers",
       "status": "Caught"
@@ -346,7 +346,7 @@
       "type": "Insect",
       "index": 39,
       "name": "Diving Beetle",
-      "months": "Nov-Jan",
+      "months": "Nov-Mar",
       "time": "8-19",
       "location": "In rivers",
       "status": "Caught"
@@ -391,7 +391,7 @@
       "type": "Insect",
       "index": 44,
       "name": "Tiger Beetle",
-      "months": "Sep-Mar",
+      "months": "Aug-Mar",
       "time": "All hours",
       "location": "Flying",
       "status": "Caught"
@@ -408,6 +408,15 @@
     {
       "type": "Insect",
       "index": 46,
+      "name": "Violin Beetle",
+      "months": "Mar-May, Nov-Dec",
+      "time": "All hours",
+      "location": "On trees",
+      "status": "Caught"
+    },
+    {
+      "type": "Insect",
+      "index": 47,
       "name": "Citrus Long-horned Beetle",
       "months": "All months",
       "time": "All hours",
@@ -416,7 +425,7 @@
     },
     {
       "type": "Insect",
-      "index": 47,
+      "index": 48,
       "name": "Rosalia Batesi Beetle",
       "months": "Nov-Mar",
       "time": "All hours",
@@ -425,18 +434,9 @@
     },
     {
       "type": "Insect",
-      "index": 48,
+      "index": 49,
       "name": "Blue Weevil Beetle",
       "months": "Jan-Feb",
-      "time": "All hours",
-      "location": "On trees",
-      "status": "Caught"
-    },
-    {
-      "type": "Insect",
-      "index": 49,
-      "name": "Violin Beetle",
-      "months": "Mar-May, Nov-Dec",
       "time": "All hours",
       "location": "On trees",
       "status": "Caught"
@@ -481,7 +481,7 @@
       "type": "Insect",
       "index": 54,
       "name": "Goliath Beetle",
-      "months": "Dec-Apr",
+      "months": "Dec-Mar",
       "time": "17-8",
       "location": "On trees",
       "status": "Caught"
@@ -652,7 +652,7 @@
       "type": "Insect",
       "index": 73,
       "name": "Mosquito",
-      "months": "Dec-Jan",
+      "months": "Dec-Mar",
       "time": "17-4",
       "location": "Flying",
       "status": "Caught"
@@ -715,7 +715,7 @@
       "type": "Insect",
       "index": 80,
       "name": "Scorpion",
-      "months": "Dec-Mar",
+      "months": "Nov-Apr",
       "time": "19-4",
       "location": "Ground",
       "status": "Not Caught"
@@ -1021,7 +1021,7 @@
       "type": "Fish",
       "index": 34,
       "name": "Guppy",
-      "months": "Oct-Apr **",
+      "months": "Oct-Apr",
       "time": "9-16",
       "location": "River",
       "status": "Caught"
@@ -1047,8 +1047,8 @@
     {
       "type": "Fish",
       "index": 37,
-      "name": "Bettta",
-      "months": "Nov-Mar",
+      "name": "Betta",
+      "months": "Nov-Apr",
       "time": "9-16",
       "location": "River",
       "status": "Caught"
@@ -1102,7 +1102,7 @@
       "type": "Fish",
       "index": 43,
       "name": "Gar",
-      "months": "Jan-Mar",
+      "months": "Dec-Mar",
       "time": "16-9",
       "location": "Pond",
       "status": "Caught"
@@ -1111,7 +1111,7 @@
       "type": "Fish",
       "index": 44,
       "name": "Arapaima",
-      "months": "Jan-Apr",
+      "months": "Dec-Mar",
       "time": "16-9",
       "location": "River",
       "status": "Caught"
@@ -1120,7 +1120,7 @@
       "type": "Fish",
       "index": 45,
       "name": "Saddled Bichir",
-      "months": "Dec-Jan",
+      "months": "Dec-Mar",
       "time": "21-4",
       "location": "River",
       "status": "Caught"
@@ -1264,7 +1264,7 @@
       "type": "Fish",
       "index": 61,
       "name": "Dab",
-      "months": "Aug-Oct",
+      "months": "Apr-Oct",
       "time": "All hours",
       "location": "Sea",
       "status": "Caught"
@@ -1282,7 +1282,7 @@
       "type": "Fish",
       "index": 63,
       "name": "Squid",
-      "months": "All months",
+      "months": "Jun-Feb",
       "time": "All hours",
       "location": "Sea",
       "status": "Caught"
@@ -1327,7 +1327,7 @@
       "type": "Fish",
       "index": 68,
       "name": "Giant Trevally",
-      "months": "Nov-Mar",
+      "months": "Nov-Apr",
       "time": "All hours",
       "location": "Pier",
       "status": "Caught"
@@ -1809,7 +1809,7 @@
       "name": "Lobster",
       "speed": "Fast",
       "price": "4500",
-      "months": "Jun-Jul, Oct-Nov",
+      "months": "Jun-Jul, Oct-Dec",
       "time": "All hours",
       "type": "Sea Creature",
       "size": "Large"
