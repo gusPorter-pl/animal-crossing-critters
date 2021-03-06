@@ -1661,7 +1661,7 @@
       "size": "Medium"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 21,
       "name": "Umbrella Octopus",
       "speed": "Fast",
@@ -1815,7 +1815,7 @@
       "size": "Large"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 35,
       "name": "Giant Isopod",
       "speed": "X-Fast",
