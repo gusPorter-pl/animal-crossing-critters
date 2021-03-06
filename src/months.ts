@@ -18,7 +18,7 @@ export const expandMonths = (months: string): string[] => {
   const splitMonths = months.split(",");
   let returnMonths: string[] = [];
 
-  if (months === "All months") {
+  if (months === "All months" || months === "All Year") {
     return monthOrder;
   }
   for (let index = 0; index < splitMonths.length; index++) {
