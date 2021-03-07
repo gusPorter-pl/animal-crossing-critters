@@ -967,8 +967,8 @@
       "type": "Fish",
       "index": 28,
       "name": "Char",
-      "months": "Mar-May, Sep-Dec",
-      "time": "16-9",
+      "months": "Mar-May, Sep-Nov",
+      "time": "16-9 (Mar-May), All hours (Sep-Nov)",
       "location": "River (Clifftop)",
       "status": "Not Caught"
     },
@@ -1826,13 +1826,13 @@
       "size": "Medium"
     },
     {
-      "status": "Not Caught",
+      "status": "Caught",
       "index": 36,
       "name": "Horseshoe Crab",
       "speed": "Medium",
       "price": "2500",
       "months": "Jan-Mar",
-      "time": "16-9",
+      "time": "21-4",
       "type": "Sea Creature",
       "size": "Medium"
     },
